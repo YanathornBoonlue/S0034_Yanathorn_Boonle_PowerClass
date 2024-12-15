@@ -13,4 +13,4 @@ Personal AI Portfolio
 
 | Video Project | Video Project's Slide |
 |---------------|-----------------------|
-| [Video Project Personal AI นายญาณาธร บุญลือ S0034.mp4](https://youtu.be/FjbjLQH9rqE) |  |
+| [Video Project Personal AI นายญาณาธร บุญลือ S0034](https://youtu.be/FjbjLQH9rqE) |  |
