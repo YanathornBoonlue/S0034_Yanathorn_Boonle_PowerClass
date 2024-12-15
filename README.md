@@ -11,6 +11,20 @@ Personal AI Portfolio
 | BiTNet: AI for diagnosing ultrasound image | [BiTNet: AI for diagnosing ultrasound image (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/BiTNet%20AI%20for%20diagnosing%20ultrasound%20image%20(Note).pdf) | [BiTNet: AI for diagnosing ultrasound image.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/BiTNet_AI_for_diagnosing_ultrasound_image_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
 | AI for arresting criminals | [AI for arresting criminals (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/AI%20for%20arresting%20criminals%20(Note).pdf) | [AI for arresting criminals.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/AI_for_arresting_criminals_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
 
+Video Project
 | Video Project | Video Project's Slide |
 |---------------|-----------------------|
-| [Video Project Personal AI นายญาณาธร บุญลือ S0034](https://youtu.be/FjbjLQH9rqE) | [Video Project Personal AI Slide]() |
+| [Video Project Personal AI นายญาณาธร บุญลือ S0034](https://youtu.be/FjbjLQH9rqE) | [Video Project Personal AI Slide](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/0da3c986b01146cd30018e8b0738fe54c25a4cb5/Video%20Project%20Personal%20AI%20Slide.pdf) |
+
+อธิบายแต่ละงานของ 6 วิชา
+xPore: An AI-Powered App for Bioinformaticians
+
+Learning from Biosignal
+
+AI for detecting code plagiarism
+
+Mental disorder detection from social media data
+
+BiTNet: AI for diagnosing ultrasound image
+
+AI for arresting criminals
