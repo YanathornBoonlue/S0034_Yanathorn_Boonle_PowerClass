@@ -4,4 +4,4 @@
 Personal AI Portfolio
 | ชื่อวิชา | ไฟล์เอกสารที่จด | Workshop |
 |--------|---------------|----------|
-| xPore: An AI-Powered App for Bioinformaticians | [ดาวน์โหลด](./files/xPore An AI-Powered App for Bioinformaticians (Note).pdf) | |
+| xPore: An AI-Powered App for Bioinformaticians | [ดาวน์โหลด](xPore An AI-Powered App for Bioinformaticians (Note).pdf) | |
