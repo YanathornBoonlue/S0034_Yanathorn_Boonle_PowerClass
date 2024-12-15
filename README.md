@@ -5,7 +5,7 @@ Personal AI Portfolio
 | ชื่อวิชา | ไฟล์เอกสารที่จด | Workshop |
 |--------|---------------|----------|
 | xPore: An AI-Powered App for Bioinformaticians | [xPore: An AI-Powered App for Bioinformaticians (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/bdd9a8dce5723585f51aef555b23068bb211a725/xPore%20An%20AI-Powered%20App%20for%20Bioinformaticians%20(Note).pdf) | [xPore: An AI-Powered App for Bioinformaticians.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/926bc675b8b21baba3561004bb50cd3c79f82ac5/xPore_An_AI_Powered_App_for_Bioinformaticians_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
-| Learning from Biosignal | [Learning from Biosignal (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/0ca6200b1dc29e7487eb6d022ff58e12fb3e7540/Learning%20from%20Biosignal%20(Note).pdf) | [Learning from Biosignal](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/tree/a7c7ab5b876efa723a725072d0b49831416e16b3/Learning%20from%20Biosignal%20S0034%20%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3%20%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD) |
+| Learning from Biosignal | [Learning from Biosignal (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/0ca6200b1dc29e7487eb6d022ff58e12fb3e7540/Learning%20from%20Biosignal%20(Note).pdf) | [Learning from Biosignal] |
 | AI for detecting code plagiarism | [AI for detecting code plagiarism (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/AI%20for%20Detecting%20Users%20with%20Mental%20Disorders%20from%20Social%20media%20(Note).pdf) | [AI for detecting code plagiarism.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/AI_for_detecting_code_plagiarism_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
 | Mental disorder detection from social media data | [Mental disorder detection from social media data (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/Mental%20disorder%20detection%20from%20social%20media%20data%20(Note).pdf) | [Mental disorder detection from social media data.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/Mental_disorder_detection_from_social_media_data_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
 | BiTNet: AI for diagnosing ultrasound image | [BiTNet: AI for diagnosing ultrasound image (Note).pdf](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/BiTNet%20AI%20for%20diagnosing%20ultrasound%20image%20(Note).pdf) | [BiTNet: AI for diagnosing ultrasound image.ipynb](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/79c0081b3e3b2478404472ca4b8fca30c1293a35/BiTNet_AI_for_diagnosing_ultrasound_image_S0034_%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%98%E0%B8%A3_%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A5%E0%B8%B7%E0%B8%AD.ipynb) |
@@ -20,7 +20,11 @@ Video Project
 
 xPore: An AI-Powered App for Bioinformaticians:
 
-ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model
+ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model เป็นหลัก รวมถึงทำความเข้าใจถึงวิธีการพล็อตกราฟ Gaussian mixture model อีกด้วย
+
+Learning from Biosignal:
+
+![image](https://github.com/user-attachments/assets/21c1d443-79d7-4ef2-93a4-c447325ce4a2)
 
 
 
@@ -30,12 +34,10 @@ xPore: An AI-Powered App for Bioinformaticians:
 
 
 
-Learning from Biosignal
+AI for detecting code plagiarism:
 
-AI for detecting code plagiarism
+Mental disorder detection from social media data:
 
-Mental disorder detection from social media data
+BiTNet: AI for diagnosing ultrasound image:
 
-BiTNet: AI for diagnosing ultrasound image
-
-AI for arresting criminals
+AI for arresting criminals:
