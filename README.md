@@ -17,7 +17,13 @@ Video Project
 | [Video Project Personal AI นายญาณาธร บุญลือ S0034](https://youtu.be/FjbjLQH9rqE) | [Video Project Personal AI Slide](https://github.com/YanathornBoonlue/S0034_Yanathorn_Boonlue_PowerClass/blob/0da3c986b01146cd30018e8b0738fe54c25a4cb5/Video%20Project%20Personal%20AI%20Slide.pdf) |
 
 อธิบายแต่ละงานของ 6 วิชา
-xPore: An AI-Powered App for Bioinformaticians
+
+xPore: An AI-Powered App for Bioinformaticians:
+
+ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model
+
+
+
 
 Learning from Biosignal
 
