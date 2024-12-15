@@ -20,25 +20,32 @@ Video Project
 
 xPore: An AI-Powered App for Bioinformaticians:
 
-ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model เป็นหลัก รวมถึงทำความเข้าใจถึงวิธีการพล็อตกราฟ Gaussian mixture model อีกด้วย
+ในส่วนของงานนี้ จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model เป็นหลัก รวมถึงทำความเข้าใจถึงวิธีการพล็อตกราฟ Gaussian mixture model อีกด้วย
 
 Learning from Biosignal:
+
+สามารถดูภาพนี้ในการตรวจงานได้นะครับ เนื่องจากสิ่งที่เป็นงานคือ ต้องการให้แก้ไขโครงสร้างตาม TinySleepNet ซึ่งอยู่ในสไลด์การสอน
+
+*หมายเหตุ: สำหรับงานที่ส่งไปนั้น ผมส่งไปทั้งโฟลเดอร์เนื่องจาก ถ้าต้องการ Run Code จะต้องมีองค์ประกอบทั้งหมดที่ส่งไปให้ ถึงจะทำงานได้ครับ (วิธีการรันโค้ด สามารถดูได้จากทางอาจารย์ที่สอนใน PowerClass ได้เลยนะครับ) แต่ส่วนที่ส่งงานจริงๆคือ ไฟล์ model.py
 
 ![image](https://github.com/user-attachments/assets/21c1d443-79d7-4ef2-93a4-c447325ce4a2)
 
 ![image](https://github.com/user-attachments/assets/7c89b637-9a3d-4f13-a4b4-8e0a015139bd)
 
+โจทย์คือ ต้องการให้เขียนโค้ด เป็นไปตามโครงสร้างนี้
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/0980c807-88a9-435a-b709-1bdf9d06b13c)
 
 AI for detecting code plagiarism:
 
+ในส่วนของงานนี้ จะเป็นวิธีการวิเคราะห์ และตรวจสอบ ความเหมือนกันของโค้ด โดยถ้าโค้ดยิ่งมีความเหมือนกัน ค่าที่ได้ ก็จะใกล้เคียงกับ 1 นั้นเอง
+
 Mental disorder detection from social media data:
 
+ในส่วนของงานนี้ จะเป็นวิธีการนำข้อความที่ได้มาวิเคราะห์ และหาหมวดหมู่ว่า กลุ่มคนที่มีสภาวะทางจิต มักจะพิมพ์คำอะไรกัน โดยมีการทำ Precision, Recall, 
+
 BiTNet: AI for diagnosing ultrasound image:
+
+ในส่วนของงานนี้
 
 AI for arresting criminals:
