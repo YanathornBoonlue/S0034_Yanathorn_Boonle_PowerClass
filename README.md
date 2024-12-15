@@ -20,11 +20,7 @@ Video Project
 
 xPore: An AI-Powered App for Bioinformaticians:
 
-ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model
-
-
-
-
+ในส่วนของงานนี้จะเป็นวิธีการดู และพล็อตกราฟของ Gaussian mixture model\n
 Learning from Biosignal
 
 AI for detecting code plagiarism
