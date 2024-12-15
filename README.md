@@ -26,6 +26,7 @@ Learning from Biosignal:
 
 ![image](https://github.com/user-attachments/assets/21c1d443-79d7-4ef2-93a4-c447325ce4a2)
 
+![image](https://github.com/user-attachments/assets/7c89b637-9a3d-4f13-a4b4-8e0a015139bd)
 
 
 
